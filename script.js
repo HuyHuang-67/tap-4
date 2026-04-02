@@ -1,17 +1,12 @@
 let images = [
-  "images/iiii.png",
-  "images/1.png",
-  "images/2.png",
-  "images/3.png",
-  "images/4.png",
-  "images/5.jpg",
-  "images/6.jpg",
-  "images/7.jpg",
-  "images/8.jpg",
-  "images/9a.jpg",
-  "images/9.png",
-  "images/oo.jpg",
-  "images/11.png"
+  "images/iii.png",
+  "images/21.jpg",
+  "images/21b.png",
+  "images/22.jpg",
+  "images/23.jpg",
+  "images/24.jpg",
+  "images/25.jpg",
+  "images/trang kết.jpg"
   
 ];
 
